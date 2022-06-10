@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/TriumvirateStudios/TriumvirateStudios/main/Untitled.png)
-
 # About Myself And My Life!
 
 ### My Description
@@ -21,3 +19,5 @@ If anyone wants to contact me here's my email and twitter
 ✉ Email: triumvaritestudios@gmail.com
 🕊 Twitter: @Triumvarites
 ```
+
+![](https://raw.githubusercontent.com/TriumvirateStudios/TriumvirateStudios/main/Untitled.png)
