@@ -16,7 +16,6 @@ Javascript, Python, Lua, Assembly
 ```
 If anyone wants to contact me here's contact sources
 ✉ Email: triumvaritestudios@gmail.com
-🕊 Twitter: @Triumvarites
 ```
 
 ![](https://raw.githubusercontent.com/TriumvirateStudios/TriumvirateStudios/main/Untitled.png)
