@@ -8,7 +8,7 @@ Ever since i was 11, I always wanted to make my own game. But i didn't know how 
 
 ### Languages
 ```
-Javascript, Android Studios, Python, Lua, C++, Assembly
+Javascript, Python, Lua, Assembly
 ```
 
 ### Contact
