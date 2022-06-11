@@ -1,3 +1,8 @@
+### Languages we work on
+```
+Javascript, Lua, Python
+```
+
 ### Contact
 
 ```
