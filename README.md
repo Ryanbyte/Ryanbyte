@@ -20,5 +20,6 @@ If anyone wants to contact us here's contact sources
 ```
 
 ```Lua
-print("Hello world testing")
+print("Hello world testing 🎙")
+print("Wow this is so cool!")
 ```
